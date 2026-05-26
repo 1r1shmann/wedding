@@ -2,7 +2,7 @@
 
 ## 🇷🇺 Русская версия
 
-Сайт-приглашение на свадьбу, которая состоится **20 декабря 2025 года**.
+Сайт-приглашение на свадьбу, которая состоялась **20 декабря 2025 года**.
 
 Это одностраничный лендинг для информирования гостей и сбора RSVP-ответов.
 
@@ -68,7 +68,7 @@ function doGet(e) {
 
 ## 🇬🇧 English version
 
-A wedding invitation website for an event scheduled on **December 20, 2025**.
+A wedding invitation website for an event was scheduled on **December 20, 2025**.
 
 This is a simple single-page landing page used to inform guests and collect RSVP responses.
 
